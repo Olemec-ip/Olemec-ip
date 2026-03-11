@@ -1,41 +1,43 @@
 # ⚡ Welcome to my Digital Workspace
+
+<!-- Исправленный анимированный текст (Используем надежный сервер demolab) -->
 <p align="center">
   <a href="https://github.com/Olemec-ip">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=>_ System+initialized...;>_ Network+optimization+expert;>_ Python+Developer;>_ Building+tools+for+freedom" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=>_+System+initialized...;>_+AI-Assisted+Developer;>_+Network+Enthusiast;>_+Building+cool+tools!" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
 ### 👾 About Me
-I'm an anonymous developer and network enthusiast. I specialize in building low-level system utilities, network traffic optimization tools, and sleek graphical interfaces. My mission is to make complex network protocols accessible and easy to tune for everyday users and gamers.
+Привет! Я — IT-энтузиаст, который доказывает, что для создания крутых и сложных проектов не обязательно быть программистом с многолетним стажем. Я разрабатываю профессиональные инструменты и современные графические интерфейсы, работая в тандеме с Искусственным Интеллектом. Идеи и архитектура — мои, код — наш. 🤝🤖
 
-- 🔭 **Currently working on:** [PacketTuner](https://github.com/Olemec-ip/PacketTuner) — a powerful GUI for network routing and DPI manipulation.
-- ⚙️ **Focus:** System Administration, Network Engineering, GUI Automation.
-- 🎮 **Gaming:** Passionate about lowering ping, fixing jitter, and achieving 0% packet loss.
-- 📫 **Reach me:** Drop an issue in my repositories.
+- 🔭 **Main Project:** [PacketTuner](https://github.com/Olemec-ip/PacketTuner) — мощный GUI для тонкой настройки сетевых пакетов и маршрутизации.
+- 🧠 **Superpower:** AI-Driven Development (Создание ПО с помощью нейросетей).
+- ⚙️ **Focus:** Автоматизация, работа с сетями, красивые и удобные интерфейсы (UI/UX).
+- 🎮 **Gaming:** Люблю низкий пинг, стабильное соединение и 0% потери пакетов.
 
 ---
 
-### 💻 Tech Stack & Tools
+### 💻 My Tech Stack & AI Companions
 
 <p align="center">
-  <!-- Значки технологий -->
+  <!-- Технологии -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/CustomTkinter-1E1E1E?style=for-the-badge&logo=python&logoColor=00FF99" />
+  <img src="https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=white" />
+  <!-- ИИ помощники -->
+  <img src="https://img.shields.io/badge/AI_Powered-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<!-- Геймерские карточки со статистикой профиля (Тема: tokyonight - неоновая темная тема) -->
+<!-- Геймерские карточки со статистикой (Тема: tokyonight - неоновая темная тема) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Olemec-ip&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Olemec-ip&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Olemec-ip GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olemec-ip&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
