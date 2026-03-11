@@ -27,6 +27,13 @@
 ```diff
 + [EXECUTING]: PacketTuner v1.0
 ! [STATUS]: ONLINE & UNDETECTABLE
-# Мой флагманский проект. Ультимативный GUI для контроля сетевых пакетов, 
-# манипуляций с маршрутизацией и тотального снижения пинга.
-# Создан в абсолютной синергии с ИИ.
+### 📊 GitHub Stats
+
+<!-- Геймерские карточки со статистикой (Тема: tokyonight - неоновая темная тема) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Olemec-ip&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Olemec-ip GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olemec-ip&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Olemec-ip&color=00FF99&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
