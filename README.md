@@ -4,120 +4,109 @@
     0 0 20px #39FF14,
     0 0 40px #39FF14,
     0 0 60px #FF00FF;">
-    ⚡ OLEMEC-IP ⚡
+    ⚡ PACKETTUNER ⚡
   </h1>
   <h2 style="color: #00FFFF; text-shadow: 
     0 0 10px #00FFFF,
     0 0 20px #00FFFF;
     font-family: 'Courier New', monospace;">
-    🧠 AI‑Driven Developer • Creator of PacketTuner • Network Enthusiast
+    🧠 AI‑Driven Network Tuning • Created by Olemec‑ip
   </h2>
   <p style="font-size: 1.4em; color: #FF00FF; text-shadow: 0 0 15px #FF00FF;">
-    💡 Ideas – mine<br>
+    💡 Idea – human<br>
     🤖 Code – AI‑crafted<br>
-    🔥 Result – pure fire!
+    🔥 Result – zero lag, pure stability!
   </p>
   <img src="https://img.shields.io/badge/NEON%20EDITION-FF00FF?style=for-the-badge&logo=neon&logoColor=white" alt="Neon Edition">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=Olemec-ip&color=00FF99&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views">
+  <img src="https://img.shields.io/github/stars/Olemec-ip/PacketTuner?style=flat-square&color=00FF99&label=STARS" alt="Stars">
+  <img src="https://img.shields.io/github/downloads/Olemec-ip/PacketTuner/total?style=flat-square&color=00FFFF" alt="Downloads">
+  <img src="https://img.shields.io/github/license/Olemec-ip/PacketTuner?style=flat-square&color=39FF14" alt="License">
 </div>
 
 ---
 
-## 👾 About Me
+## 👾 The Story Behind PacketTuner
 
 **Hello, world!** 👋
 
-I’m **Olemec-ip** – living proof that in **2026 you don’t have to be a coder** to build awesome, professional software.
+I'm **Olemec-ip** — a gamer who got tired of lag, a streamer fed up with packet loss, and living proof that in 2026 you **don’t need to be a coder** to build professional software.
 
-I have **zero years** of manual coding experience. I never wrote complex algorithms by hand.  
-Instead, I **masterfully orchestrate AI** (Grok, Claude, ChatGPT, and others) to turn ideas into reality.
+I have **zero years** of manual coding experience. I never wrote a single algorithm by hand.  
+Instead, I learned to **masterfully orchestrate AI** (Grok, Claude, ChatGPT) to turn ideas into reality.
 
 **My formula:**
-- 🔥 Idea & architecture – 100% mine  
-- 🤖 Prompts, code, debugging – AI  
-- 🎨 Design & UX – I polish to perfection  
-- ✅ Final product – production‑ready  
+- 🔥 **Idea & architecture** – 100% mine, born from real gaming frustration
+- 🤖 **Prompts, code, debugging** – handled by AI under my direction
+- 🎨 **Design & UX** – I polish until it shines
+- ✅ **Final product** – production‑ready and battle‑tested on my own connection
 
-I prove one thing: **“I’m not a programmer, but my projects are 🔥 – often better than many coders'.”**  
-This isn’t a hobby. It’s a new style of development — **AI‑Driven Development**.
+PacketTuner is the result: a **powerful, beautiful, and absolutely free** tool that proves you don't need a CS degree to create something valuable. You just need a clear vision and the right AI companions.
 
 ---
 
-## 🚀 Flagship Project: PacketTuner
+## 🚀 What Is PacketTuner?
 
 <p align="center">
-  <a href="https://github.com/Olemec-ip/PacketTuner">
-    <img src="https://img.shields.io/badge/PacketTuner-00FF9F?style=for-the-badge&logo=git&logoColor=black&labelColor=0D1117" alt="PacketTuner Badge">
-  </a>
+  <img src="assets/screenshots/tab_home.bmp" alt="PacketTuner Home Tab" width="45%">
+  &nbsp;&nbsp;
+  <img src="assets/screenshots/tab_tests.png" alt="PacketTuner Tests Tab" width="45%">
 </p>
 
-**PacketTuner** is a **powerful graphical interface** for **fine‑tuning network packets and routing** on Windows.  
+**PacketTuner** is a modern graphical interface for **fine‑tuning network traffic on Windows 10/11**. It gives you complete control over how your computer connects to games, streaming services, and websites — all through a sleek, neon‑styled dashboard.
 
-Built **entirely with AI** under my guidance — not a single line written manually!  
+### ✨ Key Features
 
-**Who is it for?**  
-Gamers, streamers, and everyone who hates lag, packet loss, and high ping.  
-
-PacketTuner gives you **full control** over your network:  
-- Real‑time packet analysis & modification  
-- Custom routing  
-- Maximum connection stability  
-- Sleek modern GUI with CustomTkinter  
-
-**My motto:**  
-«Low ping is not luck. It’s PacketTuner.» ⚡  
-
-🔗 **[Check out the project →](https://github.com/Olemec-ip/PacketTuner)**  
-(⭐ Star it — support AI‑driven development!)
+|   | Feature | What It Does |
+|---|---------|--------------|
+| ⚙️ | **One‑Click Auto‑Tune** | Automatically tests hundreds of packet strategies to find the fastest, most stable connection for your network. |
+| 🎮 | **Game Mode** | Measures and optimizes UDP traffic (jitter, packet loss) — essential for Discord, online gaming, and voice chat. |
+| 📋 | **Live List Editor** | Edit domain/IP lists directly in the app. Add your own servers or exclude others with instant save. |
+| 🌐 | **Hosts Manager** | Replace or restore your system `hosts` file with a click. Perfect for local routing adjustments. |
+| 🔍 | **Deep Diagnostics** | Scans your system for conflicts (antivirus, other network tools), checks driver health, and fixes issues automatically. |
+| 🧠 | **AI‑Designed UI** | Built with CustomTkinter — dark/light theme, smooth animations, and that unmistakable neon vibe. |
 
 ---
 
-## 💻 My Tech Stack & AI Companions
+## 💻 For Users (Quick Start)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/CustomTkinter-1E1E1E?style=for-the-badge&logo=python&logoColor=00FF99" />
-  <img src="https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=00FF9F" />
-  <br>
-  <img src="https://img.shields.io/badge/AI_Powered-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grok-xAI-000000?style=for-the-badge&logo=x&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/Claude-Anthropic-FF00FF?style=for-the-badge&logo=claude&logoColor=white" />
-</p>
+### 📦 Installation
 
----
+**Option 1 – Installer (Recommended)**
+1. Download the latest `PacketTuner_Setup_vX.X.X.exe` from [Releases](https://github.com/Olemec-ip/PacketTuner/releases).
+2. Run the installer — it will place PacketTuner in `C:\Program Files\PacketTuner`.
+3. Launch from desktop shortcut. **Always run as Administrator** (UAC shield).
 
-## 🎮 Gamer Vibe
+**Option 2 – Portable**
+1. Download `PacketTuner_Portable.zip`.
+2. Extract anywhere (avoid spaces/Cyrillic, e.g., `C:\Tools\PacketTuner`).
+3. Run `PacketTuner.exe` as Administrator.
 
-I live by the creed:  
-**0% packet loss • low ping • stable connection**  
+### 🚦 Your First 3 Minutes
 
-PacketTuner was born out of my own frustration in online games. Now I’m not just a player — I **tune the network to my advantage**.  
-If you’re tired of lag spikes ruining your matches, you’re in the right place.
+1. **Auto‑Tune**: Go to **Tests** → **Auto‑tune** → click **Start**. Wait 2–5 minutes.
+2. **Apply Best**: After tests finish, click **Apply best**.
+3. **Install Service**: Switch to **Home** → click **Install service**.
 
----
+That's it. Your system now has optimized network parameters running as a Windows service.
 
-## 📊 GitHub Stats (Neon Dark Mode)
+### 🎛️ Daily Use
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Olemec-ip&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=FFFFFF" alt="Olemec-ip GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olemec-ip&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9F" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Olemec-ip/PacketTuner?style=flat-square&color=FF00FF" alt="Stars">
-</p>
+- **Home** tab: Start/stop the service, see real‑time status.
+- **Lists** tab: Add your favorite game servers or streaming domains.
+- **Settings** tab: Toggle game filter, choose theme, enable auto‑updates.
+- **Updates** tab: Refresh IP lists or check for new versions.
 
 ---
 
-<div align="center" style="margin-top: 50px;">
-  <h3 style="color: #FF00FF; text-shadow: 0 0 20px #FF00FF;">
-    Thanks for stopping by! ✨<br>
-    Follow PacketTuner — more heat is coming!
-  </h3>
-  <p>
-    <a href="https://github.com/Olemec-ip">GitHub</a> • 
-    <a href="https://github.com/Olemec-ip/PacketTuner">PacketTuner</a>
-  </p>
-</div>
+## 🔧 For Developers (Build from Source)
+
+Want to see how AI‑crafted code looks? Clone and explore:
+
+```bash
+git clone https://github.com/Olemec-ip/PacketTuner.git
+cd PacketTuner
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+python main.py   # must be run as admin
